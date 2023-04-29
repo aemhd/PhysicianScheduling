@@ -1,0 +1,11 @@
+#To run project phases , u need to install packages : 
+1-absl 
+https://anaconda.org/anaconda/absl-py
+
+2- ortools
+https://developers.google.com/optimization/install
+
+#For multiobjective project
+
+install gurobipy
+https://www.gurobi.com/gurobi-and-anaconda-for-windows/
